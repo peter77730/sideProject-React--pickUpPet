@@ -2,7 +2,7 @@
  
  這是一個關於流浪動物收養與安置相關的互動式網頁。
 
-![](https://imgur.com/a/dYY8OFL)
+![](https://i.imgur.com/e0jrAvT.png)
 
 - 🔭 DEMO [pickUpPet](https://peter77730.github.io/sideProject-React--pickUpPet/)
 
