@@ -1,0 +1,33 @@
+.home01Style{
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+h3{
+    font-size: 24px;
+    color: #F9C745;
+    font-family: 'Kalam', cursive;
+    margin: 10px 0;
+    padding: 10px 0;
+}
+
+h2{
+    margin: 10px 0;
+    padding-top: 10px;
+    padding-bottom:20px;
+    font-size:32px;  
+}
+p{
+    font-size: 16px;
+    text-align: left;
+    
+}
+@media screen and (max-width: 470px){
+    h2{
+        font-size: 24px;  
+    }
+    p{
+        font-size:14px;
+    }
+}

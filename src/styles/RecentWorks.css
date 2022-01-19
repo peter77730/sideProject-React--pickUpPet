@@ -1,0 +1,10 @@
+.paintMore{
+    text-decoration: none;
+    color:black;
+}
+
+@media screen and (max-width:900px) {
+    .paintMore{
+        display:none;
+    };
+}
